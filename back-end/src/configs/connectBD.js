@@ -4,7 +4,7 @@ const pool = mysql.createPool({
     host: 'localhost',
     user: 'root',
     database: 'expressreact-bookstore',
-    password: '1234'
+    password: '30012003'
 })
 
 export default pool;
